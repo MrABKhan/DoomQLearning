@@ -7,7 +7,7 @@ Doom is a FPS game released in 1993. During the recent developments in AI and Ma
 ## Tools
 1. OpenAIGym (0.9.5)
 2. Pytorch 0.1.12
-
+3. https://gym.openai.com/envs/DoomCorridor-v0/
 
 ### Justifications for using the above  
   I used an older version of OpenAIGym as the newer version of Gym didnot include the Doom envs are they were depreceted and now being managed by https://github.com/ppaquette/gym-doom. This itself uses an older version of VizDoom. I could've used the newer Vizdoom API but due to time constraints of the semester, I could not.
@@ -24,3 +24,17 @@ In my current implementation of Doom, I have limited it to using the "Doom-Corri
 3. N-Step Q-Learning
 
 All of the above concepts are explained in a simplified fashion in the Slides that I have attached in this repo.
+
+
+## Training Videos
+#### While Training :
+<a href="https://imgur.com/mlGmTpW"><img src="https://i.imgur.com/mlGmTpW.mp4" title="source: imgur.com" /></a>
+<a href="https://imgur.com/3vr9sYo"><img src="https://i.imgur.com/3vr9sYo.mp4" title="source: imgur.com" /></a>
+<a href="https://imgur.com/wIHa3Cm"><img src="https://i.imgur.com/wIHa3Cm.mp4" title="source: imgur.com" /></a>
+
+#### When it was enlightened! 
+<a href="https://imgur.com/sZrtos9"><img src="https://i.imgur.com/sZrtos9.mp4" title="source: imgur.com" /></a>
+
+## So What was that ?
+Well as you can see in the Doom-Corridor Stage the maximum reward is for getting through the corridor!!! 
+In the initial steps it was just fumbling and trying to do random stuff, later on it learned to find that hey the max reward I get it is when move progress through the narrow corridor aka the vest! (it's 500 reward points for moving through that) 

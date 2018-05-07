@@ -28,12 +28,11 @@ All of the above concepts are explained in a simplified fashion in the Slides th
 
 ## Training Videos
 #### While Training :
-![Training-1](https://i.imgur.com/mlGmTpW.mp4)
-![Training-2](https://i.imgur.com/3vr9sYo.mp4)
-![Training-3](https://i.imgur.com/wIHa3Cm.mp4)
-
+[Imgur](https://i.imgur.com/mlGmTpW.mp4)
+[Imgur](https://i.imgur.com/3vr9sYo.mp4)
+[Imgur](https://i.imgur.com/wIHa3Cm.mp4)
 #### When it was enlightened! 
-![Enlightened as Yoda](https://i.imgur.com/sZrtos9.mp4)
+[Imgur](https://i.imgur.com/sZrtos9.mp4)
 
 ## So What was that ?
 Well as you can see in the Doom-Corridor Stage the maximum reward is for getting through the corridor!!! 
